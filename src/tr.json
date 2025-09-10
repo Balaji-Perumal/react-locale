@@ -1,0 +1,88 @@
+{
+  "tr": {
+    "message": {
+      "close": "Kapalı"
+    },
+    "grid": {
+      "noRecordsMessage": "Görüntülenecek kayıt yok",
+      "filterBarTooltip": "\"s filtre çubuğu hücresi",
+      "invalidFilterMessage": "Geçersiz filtre verileri",
+      "booleanTrueLabel": "gerçek",
+      "booleanFalseLabel": "YANLIŞ",
+      "addButtonLabel": "Eklemek",
+      "editButtonLabel": "Düzenlemek",
+      "cancelButtonLabel": "İptal etmek",
+      "updateButtonLabel": "Güncelleme",
+      "deleteButtonLabel": "Silmek",
+      "searchButtonLabel": "Aramak",
+      "unsavedChangesConfirmation": "Kaydetilmemiş değişiklikler kaybolacak. Devam etmek istediğinden emin misin?",
+      "noRecordsEditMessage": "Düzenleme işlemi için kayıt seçilmedi",
+      "noRecordsDeleteMessage": "Sil işlemi için kayıt seçilmedi",
+      "okButtonLabel": "TAMAM",
+      "confirmDeleteMessage": "Kaydı silmek istediğinizden emin misiniz?"
+    },
+    "pager": {
+      "currentPageLabel": "{0} {1} sayfa",
+      "totalItemsLabel": "({0} öğeler)",
+      "totalItemLabel": "({0} öğe)",
+      "firstPageTooltip": "İlk Sayfaya Git",
+      "lastPageTooltip": "Son Sayfaya Git",
+      "nextPageTooltip": "Sonraki Sayfaya Git",
+      "previousPageTooltip": "Önceki sayfaya git",
+      "nextPageGroupTooltip": "Sonraki Sayfa Grubuna Git",
+      "previousPageGroupTooltip": "Önceki sayfa grubuna git",
+      "paginationStatusMessage": "Çevrenin harici mesajı",
+      "pageLabel": "Sayfa ",
+      "ofLabel": " ile ilgili ",
+      "pagesLabel": " Sayfa"
+    },
+    "chart": {
+      "zoom": "Zum",
+      "zoomIn": "Zoomin",
+      "zoomOut": "Zoomout",
+      "reset": "Sıfırlamak",
+      "pan": "Tava",
+      "resetZoom": "Zoom'u sıfırla"
+    },
+    "dialog": {
+      "close": "Kapalı"
+    },
+    "calendar": {
+      "today": "Bugün"
+    },
+    "datepicker": {
+      "today": "Bugün",
+      "placeholder": "Bir Tarih Seçin"
+    },
+    "formValidator": {
+      "required": "Bu alan gereklidir.",
+      "email": "Geçerli bir e.",
+      "url": "Lütfen geçerli bir URL girin.",
+      "date": "Lütfen geçerli bir tarih girin.",
+      "dateIso": "Lütfen geçerli bir tarih (ISO) girin.",
+      "creditCard": "Lütfen geçerli kart numarasını girin.",
+      "number": "Lütfen geçerli bir numara girin.",
+      "digits": "Lütfen yalnızca rakamları girin.",
+      "maxLength": "Lütfen {0} karakterlerinden fazla girmeyin.",
+      "minLength": "Lütfen en az {0} karakterleri girin.",
+      "rangeLength": "Lütfen {0} ve {1} karakterleri arasında bir değer girin.",
+      "range": "Lütfen {0} ve {1} arasında bir değer girin.",
+      "max": "Lütfen {0} 'dan daha az veya eşit bir değer girin.",
+      "min": "Lütfen {0} 'dan büyük veya eşit bir değer girin.",
+      "regex": "Lütfen doğru bir değer girin.",
+      "tel": "Lütfen geçerli bir telefon numarası girin.",
+      "equalTo": "Lütfen aynı değeri tekrar girin."
+    },
+    "numericTextbox": {
+      "increment": "Artış değeri",
+      "decrement": "Azaltma değeri",
+      "clear": "Temizlemek"
+    },
+    "textarea": {
+      "clear": "Temizlemek"
+    },
+    "textbox": {
+      "clear": "Temizlemek"
+    }
+  }
+}

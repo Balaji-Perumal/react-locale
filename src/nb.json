@@ -1,0 +1,88 @@
+{
+  "nb": {
+    "message": {
+      "close": "Lukke"
+    },
+    "grid": {
+      "noRecordsMessage": "Ingen poster å vise",
+      "filterBarTooltip": "\"S filterstangcelle",
+      "invalidFilterMessage": "Ugyldige filterdata",
+      "booleanTrueLabel": "ekte",
+      "booleanFalseLabel": "falsk",
+      "addButtonLabel": "Legge til",
+      "editButtonLabel": "Redigere",
+      "cancelButtonLabel": "Kansellere",
+      "updateButtonLabel": "Oppdatering",
+      "deleteButtonLabel": "Slett",
+      "searchButtonLabel": "Søk",
+      "unsavedChangesConfirmation": "Ufrelte endringer vil gå tapt. Er du sikker på at du vil fortsette?",
+      "noRecordsEditMessage": "Ingen poster valgt for redigeringsdrift",
+      "noRecordsDeleteMessage": "Ingen poster valgt for slettedrift",
+      "okButtonLabel": "Ok",
+      "confirmDeleteMessage": "Er du sikker på at du vil slette posten?"
+    },
+    "pager": {
+      "currentPageLabel": "{0} av {1} sider",
+      "totalItemsLabel": "({0} elementer)",
+      "totalItemLabel": "({0} vare)",
+      "firstPageTooltip": "Gå til første side",
+      "lastPageTooltip": "Gå til siste side",
+      "nextPageTooltip": "Gå til neste side",
+      "previousPageTooltip": "Gå til forrige side",
+      "nextPageGroupTooltip": "Gå til neste sidegruppe",
+      "previousPageGroupTooltip": "Gå til forrige sidegruppe",
+      "paginationStatusMessage": "Paager ekstern melding",
+      "pageLabel": "Side ",
+      "ofLabel": " av ",
+      "pagesLabel": " Sider"
+    },
+    "chart": {
+      "zoom": "Zoom",
+      "zoomIn": "Zoomin",
+      "zoomOut": "Zoomout",
+      "reset": "Tilbakestill",
+      "pan": "Panne",
+      "resetZoom": "Tilbakestill zoom"
+    },
+    "dialog": {
+      "close": "Lukke"
+    },
+    "calendar": {
+      "today": "I dag"
+    },
+    "datepicker": {
+      "today": "I dag",
+      "placeholder": "Velg en dato"
+    },
+    "formValidator": {
+      "required": "Dette feltet er påkrevd.",
+      "email": "Vennligst skriv inn en gyldig e -postadresse.",
+      "url": "Vennligst skriv inn en gyldig url.",
+      "date": "Vennligst skriv inn en gyldig dato.",
+      "dateIso": "Vennligst skriv inn en gyldig dato (ISO).",
+      "creditCard": "Vennligst skriv inn gyldig kortnummer.",
+      "number": "Vennligst skriv inn et gyldig nummer.",
+      "digits": "Vennligst skriv inn bare sifre.",
+      "maxLength": "Vennligst skriv inn mer enn {0} tegn.",
+      "minLength": "Vennligst skriv inn minst {0} tegn.",
+      "rangeLength": "Vennligst skriv inn en verdi mellom {0} og {1} tegn lang.",
+      "range": "Vennligst skriv inn en verdi mellom {0} og {1}.",
+      "max": "Vennligst skriv inn en verdi mindre enn eller lik {0}.",
+      "min": "Vennligst skriv inn en verdi som er større enn eller lik {0}.",
+      "regex": "Vennligst skriv inn en riktig verdi.",
+      "tel": "Vennligst skriv inn et gyldig telefonnummer.",
+      "equalTo": "Vennligst skriv inn samme verdi igjen."
+    },
+    "numericTextbox": {
+      "increment": "Økningsverdi",
+      "decrement": "Reduksjonsverdi",
+      "clear": "Klar"
+    },
+    "textarea": {
+      "clear": "Klar"
+    },
+    "textbox": {
+      "clear": "Klar"
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "ja": {
+    "message": {
+      "close": "近い"
+    },
+    "grid": {
+      "noRecordsMessage": "表示するレコードはありません",
+      "filterBarTooltip": "「Sフィルターバーセル",
+      "invalidFilterMessage": "無効なフィルターデータ",
+      "booleanTrueLabel": "真実",
+      "booleanFalseLabel": "間違い",
+      "addButtonLabel": "追加",
+      "editButtonLabel": "編集",
+      "cancelButtonLabel": "キャンセル",
+      "updateButtonLabel": "アップデート",
+      "deleteButtonLabel": "消去",
+      "searchButtonLabel": "検索",
+      "unsavedChangesConfirmation": "未保存の変更は失われます。続けたいですか？",
+      "noRecordsEditMessage": "編集操作のために選択されたレコードはありません",
+      "noRecordsDeleteMessage": "削除操作用に選択されたレコードはありません",
+      "okButtonLabel": "わかりました",
+      "confirmDeleteMessage": "レコードを削除したいですか？"
+    },
+    "pager": {
+      "currentPageLabel": "{1}ページの{0}",
+      "totalItemsLabel": "（{0}アイテム）",
+      "totalItemLabel": "（{0}アイテム）",
+      "firstPageTooltip": "最初のページに移動します",
+      "lastPageTooltip": "最後のページに移動します",
+      "nextPageTooltip": "次のページに移動します",
+      "previousPageTooltip": "前のページに移動します",
+      "nextPageGroupTooltip": "次のページグループに移動します",
+      "previousPageGroupTooltip": "前のページグループに移動します",
+      "paginationStatusMessage": "ページャー外部メッセージ",
+      "pageLabel": "ページ ",
+      "ofLabel": " の ",
+      "pagesLabel": " ページ"
+    },
+    "chart": {
+      "zoom": "ズーム",
+      "zoomIn": "Zoomin",
+      "zoomOut": "ズームアウト",
+      "reset": "リセット",
+      "pan": "鍋",
+      "resetZoom": "ズームをリセットします"
+    },
+    "dialog": {
+      "close": "近い"
+    },
+    "calendar": {
+      "today": "今日"
+    },
+    "datepicker": {
+      "today": "今日",
+      "placeholder": "日付を選択してください"
+    },
+    "formValidator": {
+      "required": "この項目は必須です。",
+      "email": "有効なメールアドレスを入力してください。",
+      "url": "有効なURLを入力してください。",
+      "date": "有効な日付を入力してください。",
+      "dateIso": "有効な日付（ISO）を入力してください。",
+      "creditCard": "有効なカード番号を入力してください。",
+      "number": "有効な番号を入力してください。",
+      "digits": "数字のみを入力してください。",
+      "maxLength": "{0}文字以下を入力してください。",
+      "minLength": "少なくとも{0}文字を入力してください。",
+      "rangeLength": "{0}と{1}文字の長さの間に値を入力してください。",
+      "range": "{0}と{1}の間に値を入力してください。",
+      "max": "{0}以下の値を入力してください。",
+      "min": "{0}以上の値を入力してください。",
+      "regex": "正しい値を入力してください。",
+      "tel": "有効な電話番号を入力してください。",
+      "equalTo": "もう一度同じ値を入力してください。"
+    },
+    "numericTextbox": {
+      "increment": "増分値",
+      "decrement": "減少値",
+      "clear": "クリア"
+    },
+    "textarea": {
+      "clear": "クリア"
+    },
+    "textbox": {
+      "clear": "クリア"
+    }
+  }
+}

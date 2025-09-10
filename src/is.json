@@ -1,0 +1,88 @@
+{
+  "is": {
+    "message": {
+      "close": "Lokaðu"
+    },
+    "grid": {
+      "noRecordsMessage": "Engar skrár til að sýna",
+      "filterBarTooltip": "„S Filter Bar Cell",
+      "invalidFilterMessage": "Ógild síugögn",
+      "booleanTrueLabel": "satt",
+      "booleanFalseLabel": "Ósatt",
+      "addButtonLabel": "Bæta við",
+      "editButtonLabel": "EDIT",
+      "cancelButtonLabel": "Hætta við",
+      "updateButtonLabel": "UPDATE",
+      "deleteButtonLabel": "Eyða",
+      "searchButtonLabel": "Leitaðu",
+      "unsavedChangesConfirmation": "Óvissaðar breytingar tapast. Ertu viss um að þú viljir halda áfram?",
+      "noRecordsEditMessage": "Engar skrár valdar til að breyta aðgerð",
+      "noRecordsDeleteMessage": "Engar skrár valdar til að eyða rekstri",
+      "okButtonLabel": "OK",
+      "confirmDeleteMessage": "Ertu viss um að þú viljir eyða plötunni?"
+    },
+    "pager": {
+      "currentPageLabel": "{0} af {1} síðum",
+      "totalItemsLabel": "({0} hlutir)",
+      "totalItemLabel": "({0} hlutur)",
+      "firstPageTooltip": "Farðu á fyrstu síðu",
+      "lastPageTooltip": "Farðu á síðustu síðu",
+      "nextPageTooltip": "Farðu á næstu síðu",
+      "previousPageTooltip": "Farðu á fyrri síðu",
+      "nextPageGroupTooltip": "Farðu í Next Page Group",
+      "previousPageGroupTooltip": "Farðu í fyrri blaðsíðuhóp",
+      "paginationStatusMessage": "Ytri skilaboð um símleiðis",
+      "pageLabel": "Síða ",
+      "ofLabel": " af ",
+      "pagesLabel": " Síður"
+    },
+    "chart": {
+      "zoom": "Aðdráttur",
+      "zoomIn": "Zoomin",
+      "zoomOut": "Zoomout",
+      "reset": "Endurstilla",
+      "pan": "Pönnu",
+      "resetZoom": "Endurstilla aðdrátt"
+    },
+    "dialog": {
+      "close": "Lokaðu"
+    },
+    "calendar": {
+      "today": "Í dag"
+    },
+    "datepicker": {
+      "today": "Í dag",
+      "placeholder": "Veldu dagsetningu"
+    },
+    "formValidator": {
+      "required": "Þessa reit er krafist.",
+      "email": "Vinsamlegast sláðu inn gilt netfang.",
+      "url": "Vinsamlegast sláðu inn gilda slóð.",
+      "date": "Vinsamlegast sláðu inn gilda dagsetningu.",
+      "dateIso": "Vinsamlegast sláðu inn gilda dagsetningu (ISO).",
+      "creditCard": "Vinsamlegast sláðu inn gilt kortanúmer.",
+      "number": "Vinsamlegast sláðu inn gilt númer.",
+      "digits": "Vinsamlegast sláðu aðeins inn tölur.",
+      "maxLength": "Vinsamlegast sláðu ekki meira en {0} stafi.",
+      "minLength": "Vinsamlegast sláðu inn að minnsta kosti {0} stafi.",
+      "rangeLength": "Vinsamlegast sláðu inn gildi milli {0} og {1} stafi.",
+      "range": "Vinsamlegast sláðu inn gildi milli {0} og {1}.",
+      "max": "Vinsamlegast sláðu inn gildi minna en eða jafnt og {0}.",
+      "min": "Vinsamlegast sláðu inn gildi sem er meira en eða jafnt og {0}.",
+      "regex": "Vinsamlegast sláðu inn rétt gildi.",
+      "tel": "Vinsamlegast sláðu inn gilt símanúmer.",
+      "equalTo": "Vinsamlegast sláðu inn sama gildi aftur."
+    },
+    "numericTextbox": {
+      "increment": "Hækkunargildi",
+      "decrement": "Lækkunargildi",
+      "clear": "Tær"
+    },
+    "textarea": {
+      "clear": "Tær"
+    },
+    "textbox": {
+      "clear": "Tær"
+    }
+  }
+}

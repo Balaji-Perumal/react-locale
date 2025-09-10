@@ -1,0 +1,88 @@
+{
+  "it": {
+    "message": {
+      "close": "Vicino"
+    },
+    "grid": {
+      "noRecordsMessage": "Nessun record da visualizzare",
+      "filterBarTooltip": "\"S cella della barra del filtro",
+      "invalidFilterMessage": "Dati di filtro non validi",
+      "booleanTrueLabel": "VERO",
+      "booleanFalseLabel": "falso",
+      "addButtonLabel": "Aggiungere",
+      "editButtonLabel": "Modificare",
+      "cancelButtonLabel": "Cancellare",
+      "updateButtonLabel": "Aggiornamento",
+      "deleteButtonLabel": "Eliminare",
+      "searchButtonLabel": "Ricerca",
+      "unsavedChangesConfirmation": "I cambiamenti non salvati andranno persi. Sei sicuro di voler continuare?",
+      "noRecordsEditMessage": "Nessun record selezionato per l'operazione di modifica",
+      "noRecordsDeleteMessage": "Nessun record selezionato per l'operazione Elimina",
+      "okButtonLabel": "OK",
+      "confirmDeleteMessage": "Sei sicuro di voler eliminare il record?"
+    },
+    "pager": {
+      "currentPageLabel": "{0} di {1} pagine",
+      "totalItemsLabel": "({0} elementi)",
+      "totalItemLabel": "({0} elemento)",
+      "firstPageTooltip": "Vai alla prima pagina",
+      "lastPageTooltip": "Vai all'ultima pagina",
+      "nextPageTooltip": "Vai alla pagina successiva",
+      "previousPageTooltip": "Vai alla pagina precedente",
+      "nextPageGroupTooltip": "Vai al gruppo di pagina successiva",
+      "previousPageGroupTooltip": "Vai al gruppo di pagina precedente",
+      "paginationStatusMessage": "Messaggio esterno del cercapersone",
+      "pageLabel": "Pagina ",
+      "ofLabel": " Di ",
+      "pagesLabel": " Pagine"
+    },
+    "chart": {
+      "zoom": "Zoom",
+      "zoomIn": "Zoomin",
+      "zoomOut": "Zoomout",
+      "reset": "Reset",
+      "pan": "Padella",
+      "resetZoom": "Ripristina lo zoom"
+    },
+    "dialog": {
+      "close": "Vicino"
+    },
+    "calendar": {
+      "today": "Oggi"
+    },
+    "datepicker": {
+      "today": "Oggi",
+      "placeholder": "Scegli una data"
+    },
+    "formValidator": {
+      "required": "Questo campo è obbligatorio.",
+      "email": "Si prega di inserire un indirizzo email valido.",
+      "url": "Inserisci un URL valido.",
+      "date": "Si prega di inserire una data valida.",
+      "dateIso": "Inserisci una data valida (ISO).",
+      "creditCard": "Immettere il numero della carta valido.",
+      "number": "Immettere un numero valido.",
+      "digits": "Inserisci solo cifre.",
+      "maxLength": "Si prega di inserire non più di {0} caratteri.",
+      "minLength": "Inserisci almeno {0} caratteri.",
+      "rangeLength": "Inserisci un valore tra {0} e {1} lunghi caratteri.",
+      "range": "Inserisci un valore tra {0} e {1}.",
+      "max": "Inserisci un valore inferiore o uguale a {0}.",
+      "min": "Inserisci un valore maggiore o uguale a {0}.",
+      "regex": "Immettere un valore corretto.",
+      "tel": "Immettere un numero di telefono valido.",
+      "equalTo": "Si prega di inserire di nuovo lo stesso valore."
+    },
+    "numericTextbox": {
+      "increment": "Valore di incremento",
+      "decrement": "Valore di decremento",
+      "clear": "Chiaro"
+    },
+    "textarea": {
+      "clear": "Chiaro"
+    },
+    "textbox": {
+      "clear": "Chiaro"
+    }
+  }
+}

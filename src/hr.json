@@ -1,0 +1,88 @@
+{
+  "hr": {
+    "message": {
+      "close": "Zatvoriti"
+    },
+    "grid": {
+      "noRecordsMessage": "Nema zapisa za prikaz",
+      "filterBarTooltip": "\"S filter bar ćelija",
+      "invalidFilterMessage": "Nevažeći podaci filtra",
+      "booleanTrueLabel": "pravi",
+      "booleanFalseLabel": "lažan",
+      "addButtonLabel": "Dodati",
+      "editButtonLabel": "Urediti",
+      "cancelButtonLabel": "Otkazati",
+      "updateButtonLabel": "Ažurirati",
+      "deleteButtonLabel": "Izbrisati",
+      "searchButtonLabel": "Pretraživanje",
+      "unsavedChangesConfirmation": "Izgubit će se nespremne promjene. Jeste li sigurni da želite nastaviti?",
+      "noRecordsEditMessage": "Nema zapisa odabranih za operaciju uređivanja",
+      "noRecordsDeleteMessage": "Nema zapisa odabranih za Operaciju brisanja",
+      "okButtonLabel": "U REDU",
+      "confirmDeleteMessage": "Jeste li sigurni da želite izbrisati zapis?"
+    },
+    "pager": {
+      "currentPageLabel": "{0} od {1} stranica",
+      "totalItemsLabel": "({0} stavke)",
+      "totalItemLabel": "({0} stavka)",
+      "firstPageTooltip": "Idite na prvu stranicu",
+      "lastPageTooltip": "Idite na posljednju stranicu",
+      "nextPageTooltip": "Idite na sljedeću stranicu",
+      "previousPageTooltip": "Idite na prethodnu stranicu",
+      "nextPageGroupTooltip": "Idite na grupu sljedeće stranice",
+      "previousPageGroupTooltip": "Idite na grupu prethodne stranice",
+      "paginationStatusMessage": "Pojavljivačka vanjska poruka",
+      "pageLabel": "Stranica ",
+      "ofLabel": " od ",
+      "pagesLabel": " Stranice"
+    },
+    "chart": {
+      "zoom": "Zum",
+      "zoomIn": "Zumin",
+      "zoomOut": "Zumiranje",
+      "reset": "Resetirati",
+      "pan": "Tava",
+      "resetZoom": "Resetiranje zumiranja"
+    },
+    "dialog": {
+      "close": "Zatvoriti"
+    },
+    "calendar": {
+      "today": "Danas"
+    },
+    "datepicker": {
+      "today": "Danas",
+      "placeholder": "Odaberite datum"
+    },
+    "formValidator": {
+      "required": "Ovo je polje potrebno.",
+      "email": "Unesite valjanu adresu e -pošte.",
+      "url": "Unesite valjani URL.",
+      "date": "Unesite valjani datum.",
+      "dateIso": "Unesite valjani datum (ISO).",
+      "creditCard": "Unesite valjani broj kartice.",
+      "number": "Unesite valjani broj.",
+      "digits": "Unesite samo znamenke.",
+      "maxLength": "Unesite ne više od {0} znakova.",
+      "minLength": "Unesite najmanje {0} znakove.",
+      "rangeLength": "Unesite vrijednost između {0} i {1} duge znakove.",
+      "range": "Unesite vrijednost između {0} i {1}.",
+      "max": "Unesite vrijednost manju od ili jednaka {0}.",
+      "min": "Unesite vrijednost veću od ili jednaka {0}.",
+      "regex": "Unesite ispravnu vrijednost.",
+      "tel": "Unesite valjani telefonski broj.",
+      "equalTo": "Unesite istu vrijednost ponovo."
+    },
+    "numericTextbox": {
+      "increment": "Vrijednost povećanja",
+      "decrement": "Vrijednost smanjenja",
+      "clear": "Jasan"
+    },
+    "textarea": {
+      "clear": "Jasan"
+    },
+    "textbox": {
+      "clear": "Jasan"
+    }
+  }
+}

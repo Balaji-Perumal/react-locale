@@ -1,0 +1,88 @@
+{
+  "fa": {
+    "message": {
+      "close": "نزدیک"
+    },
+    "grid": {
+      "noRecordsMessage": "بدون سوابق نمایش",
+      "filterBarTooltip": "\"سلول نوار فیلتر",
+      "invalidFilterMessage": "داده های فیلتر نامعتبر",
+      "booleanTrueLabel": "درست",
+      "booleanFalseLabel": "دروغ",
+      "addButtonLabel": "اضافه کردن",
+      "editButtonLabel": "ویرایش کردن",
+      "cancelButtonLabel": "لغو کردن",
+      "updateButtonLabel": "بروزرسانی",
+      "deleteButtonLabel": "حذف کردن",
+      "searchButtonLabel": "جستجو",
+      "unsavedChangesConfirmation": "تغییرات ناموفق از بین می رود. آیا مطمئن هستید که می خواهید ادامه دهید؟",
+      "noRecordsEditMessage": "هیچ پرونده ای برای ویرایش عملیات انتخاب نشده است",
+      "noRecordsDeleteMessage": "هیچ سوابق انتخاب شده برای حذف عملیات انتخاب نشده است",
+      "okButtonLabel": "خوب",
+      "confirmDeleteMessage": "آیا مطمئن هستید که می خواهید رکورد را حذف کنید؟"
+    },
+    "pager": {
+      "currentPageLabel": "{0} از {1} صفحات",
+      "totalItemsLabel": "({0} موارد)",
+      "totalItemLabel": "({0} مورد)",
+      "firstPageTooltip": "به صفحه اول بروید",
+      "lastPageTooltip": "به صفحه آخر بروید",
+      "nextPageTooltip": "به صفحه بعد بروید",
+      "previousPageTooltip": "به صفحه قبلی بروید",
+      "nextPageGroupTooltip": "به گروه صفحه بعدی بروید",
+      "previousPageGroupTooltip": "به گروه صفحه قبلی بروید",
+      "paginationStatusMessage": "پیجر پیام خارجی",
+      "pageLabel": "صفحه ",
+      "ofLabel": " از ",
+      "pagesLabel": " صفحات"
+    },
+    "chart": {
+      "zoom": "بزرگ شدن",
+      "zoomIn": "زوم",
+      "zoomOut": "بزرگنمایی",
+      "reset": "بازپا",
+      "pan": "تابه",
+      "resetZoom": "بزرگنمایی"
+    },
+    "dialog": {
+      "close": "نزدیک"
+    },
+    "calendar": {
+      "today": "امروز"
+    },
+    "datepicker": {
+      "today": "امروز",
+      "placeholder": "یک تاریخ را انتخاب کنید"
+    },
+    "formValidator": {
+      "required": "این قسمت مورد نیاز است.",
+      "email": "لطفاً یک آدرس ایمیل معتبر وارد کنید.",
+      "url": "لطفاً یک URL معتبر وارد کنید.",
+      "date": "لطفاً یک تاریخ معتبر وارد کنید.",
+      "dateIso": "لطفاً یک تاریخ معتبر (ISO) وارد کنید.",
+      "creditCard": "لطفا شماره کارت معتبر را وارد کنید.",
+      "number": "لطفاً یک شماره معتبر وارد کنید.",
+      "digits": "لطفاً فقط رقم وارد کنید.",
+      "maxLength": "لطفاً بیشتر از شخصیت های 0 {وارد نکنید.",
+      "minLength": "لطفاً حداقل {0} نویسه ها را وارد کنید.",
+      "rangeLength": "لطفاً یک مقدار بین شخصیت های {0} و {1} طولانی وارد کنید.",
+      "range": "لطفاً یک مقدار بین {0} و {1} وارد کنید.",
+      "max": "لطفاً یک مقدار کمتر از یا برابر با {0} وارد کنید.",
+      "min": "لطفاً یک مقدار بزرگتر از یا برابر با {0} وارد کنید.",
+      "regex": "لطفاً یک مقدار صحیح وارد کنید.",
+      "tel": "لطفاً یک شماره تلفن معتبر وارد کنید.",
+      "equalTo": "لطفاً دوباره همان مقدار را وارد کنید."
+    },
+    "numericTextbox": {
+      "increment": "مقدار افزایشی",
+      "decrement": "مقدار کاهش",
+      "clear": "پاک کردن"
+    },
+    "textarea": {
+      "clear": "پاک کردن"
+    },
+    "textbox": {
+      "clear": "پاک کردن"
+    }
+  }
+}

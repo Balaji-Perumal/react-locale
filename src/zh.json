@@ -1,0 +1,88 @@
+{
+  "zh": {
+    "message": {
+      "close": "关闭"
+    },
+    "grid": {
+      "noRecordsMessage": "没有记录要显示",
+      "filterBarTooltip": "“ S滤杆单元格",
+      "invalidFilterMessage": "无效的过滤器数据",
+      "booleanTrueLabel": "真的",
+      "booleanFalseLabel": "错误的",
+      "addButtonLabel": "添加",
+      "editButtonLabel": "编辑",
+      "cancelButtonLabel": "取消",
+      "updateButtonLabel": "更新",
+      "deleteButtonLabel": "删除",
+      "searchButtonLabel": "搜索",
+      "unsavedChangesConfirmation": "未保存的更改将丢失。您确定要继续吗？",
+      "noRecordsEditMessage": "没有选择编辑操作的记录",
+      "noRecordsDeleteMessage": "没有选择删除操作的记录",
+      "okButtonLabel": "好的",
+      "confirmDeleteMessage": "您确定要删除记录吗？"
+    },
+    "pager": {
+      "currentPageLabel": "{0} {1}页面",
+      "totalItemsLabel": "（{0}项目）",
+      "totalItemLabel": "（{0}项目）",
+      "firstPageTooltip": "转到第一页",
+      "lastPageTooltip": "转到最后一页",
+      "nextPageTooltip": "转到下一页",
+      "previousPageTooltip": "转到上一页",
+      "nextPageGroupTooltip": "转到下一页组",
+      "previousPageGroupTooltip": "转到上一页组",
+      "paginationStatusMessage": "Pager外部消息",
+      "pageLabel": "页 ",
+      "ofLabel": " 的 ",
+      "pagesLabel": " 页面"
+    },
+    "chart": {
+      "zoom": "飞涨",
+      "zoomIn": "Zoomin",
+      "zoomOut": "Zoomout",
+      "reset": "重置",
+      "pan": "平底锅",
+      "resetZoom": "重置变焦"
+    },
+    "dialog": {
+      "close": "关闭"
+    },
+    "calendar": {
+      "today": "今天"
+    },
+    "datepicker": {
+      "today": "今天",
+      "placeholder": "选择一个日期"
+    },
+    "formValidator": {
+      "required": "此字段是必需的。",
+      "email": "请输入有效的电子邮件地址。",
+      "url": "请输入有效的URL。",
+      "date": "请输入有效日期。",
+      "dateIso": "请输入有效日期（ISO）。",
+      "creditCard": "请输入有效的卡号。",
+      "number": "请输入有效号码。",
+      "digits": "请仅输入数字。",
+      "maxLength": "请输入不超过{0}字符。",
+      "minLength": "请至少输入{0}字符。",
+      "rangeLength": "请在{0}和{1}字符长之间输入一个值。",
+      "range": "请在{0}和{1}之间输入一个值。",
+      "max": "请输入小于或等于{0}的值。",
+      "min": "请输入大于或等于{0}的值。",
+      "regex": "请输入正确的值。",
+      "tel": "请输入有效的电话号码。",
+      "equalTo": "请再次输入相同的值。"
+    },
+    "numericTextbox": {
+      "increment": "增量值",
+      "decrement": "降低值",
+      "clear": "清除"
+    },
+    "textarea": {
+      "clear": "清除"
+    },
+    "textbox": {
+      "clear": "清除"
+    }
+  }
+}

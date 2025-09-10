@@ -1,0 +1,88 @@
+{
+  "cs": {
+    "message": {
+      "close": "Blízko"
+    },
+    "grid": {
+      "noRecordsMessage": "Žádné záznamy k zobrazení",
+      "filterBarTooltip": "„S buňka filtru",
+      "invalidFilterMessage": "Neplatná data filtru",
+      "booleanTrueLabel": "věrný",
+      "booleanFalseLabel": "falešný",
+      "addButtonLabel": "Přidat",
+      "editButtonLabel": "Upravit",
+      "cancelButtonLabel": "Zrušit",
+      "updateButtonLabel": "Aktualizovat",
+      "deleteButtonLabel": "Vymazat",
+      "searchButtonLabel": "Vyhledávání",
+      "unsavedChangesConfirmation": "Neochvějné změny budou ztraceny. Jste si jisti, že chcete pokračovat?",
+      "noRecordsEditMessage": "Žádné záznamy byly vybrány pro operaci úprav",
+      "noRecordsDeleteMessage": "Pro provoz smazání nejsou žádné záznamy",
+      "okButtonLabel": "Dobře",
+      "confirmDeleteMessage": "Jste si jisti, že chcete záznam odstranit?"
+    },
+    "pager": {
+      "currentPageLabel": "{0} stránek {1}",
+      "totalItemsLabel": "({0} položky)",
+      "totalItemLabel": "({0} položka)",
+      "firstPageTooltip": "Přejděte na první stránku",
+      "lastPageTooltip": "Přejít na poslední stránku",
+      "nextPageTooltip": "Přejděte na další stránku",
+      "previousPageTooltip": "Přejděte na předchozí stránku",
+      "nextPageGroupTooltip": "Přejděte do skupiny další stránky",
+      "previousPageGroupTooltip": "Přejděte na skupinu předchozí stránky",
+      "paginationStatusMessage": "Externí zpráva Pager",
+      "pageLabel": "Strana ",
+      "ofLabel": " z ",
+      "pagesLabel": " Stránky"
+    },
+    "chart": {
+      "zoom": "Zoom",
+      "zoomIn": "Zoomin",
+      "zoomOut": "Zvětšení",
+      "reset": "Resetovat",
+      "pan": "Pánev",
+      "resetZoom": "Resetovat zoom"
+    },
+    "dialog": {
+      "close": "Blízko"
+    },
+    "calendar": {
+      "today": "Dnes"
+    },
+    "datepicker": {
+      "today": "Dnes",
+      "placeholder": "Vyberte datum"
+    },
+    "formValidator": {
+      "required": "Toto pole je vyžadováno.",
+      "email": "Zadejte platnou e -mailovou adresu.",
+      "url": "Zadejte prosím platnou adresu URL.",
+      "date": "Zadejte prosím platné datum.",
+      "dateIso": "Zadejte platné datum (ISO).",
+      "creditCard": "Zadejte prosím platné číslo karty.",
+      "number": "Zadejte prosím platné číslo.",
+      "digits": "Zadejte pouze číslice.",
+      "maxLength": "Zadejte prosím ne více než {0} znaky.",
+      "minLength": "Zadejte alespoň {0} znaky.",
+      "rangeLength": "Zadejte hodnotu mezi znaky {0} a {1}.",
+      "range": "Zadejte hodnotu mezi {0} a {1}.",
+      "max": "Zadejte hodnotu menší nebo rovna {0}.",
+      "min": "Zadejte hodnotu větší nebo rovna {0}.",
+      "regex": "Zadejte správnou hodnotu.",
+      "tel": "Zadejte prosím platné telefonní číslo.",
+      "equalTo": "Znovu zadejte stejnou hodnotu."
+    },
+    "numericTextbox": {
+      "increment": "Hodnota přírůstku",
+      "decrement": "Hodnota snížení",
+      "clear": "Jasný"
+    },
+    "textarea": {
+      "clear": "Jasný"
+    },
+    "textbox": {
+      "clear": "Jasný"
+    }
+  }
+}

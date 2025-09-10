@@ -1,0 +1,88 @@
+{
+  "ms": {
+    "message": {
+      "close": "Tutup"
+    },
+    "grid": {
+      "noRecordsMessage": "Tiada rekod untuk dipaparkan",
+      "filterBarTooltip": "\"S Penapis Sel Sel",
+      "invalidFilterMessage": "Data penapis tidak sah",
+      "booleanTrueLabel": "Benar",
+      "booleanFalseLabel": "palsu",
+      "addButtonLabel": "Tambah",
+      "editButtonLabel": "Edit",
+      "cancelButtonLabel": "Batalkan",
+      "updateButtonLabel": "Kemas kini",
+      "deleteButtonLabel": "Padam",
+      "searchButtonLabel": "Cari",
+      "unsavedChangesConfirmation": "Perubahan yang tidak selamat akan hilang. Adakah anda pasti mahu meneruskan?",
+      "noRecordsEditMessage": "Tiada rekod yang dipilih untuk mengedit operasi",
+      "noRecordsDeleteMessage": "Tiada rekod yang dipilih untuk memadam operasi",
+      "okButtonLabel": "Ok",
+      "confirmDeleteMessage": "Adakah anda pasti mahu memadamkan rekod?"
+    },
+    "pager": {
+      "currentPageLabel": "{0} halaman {1}",
+      "totalItemsLabel": "({0} item)",
+      "totalItemLabel": "({0} item)",
+      "firstPageTooltip": "Pergi ke halaman pertama",
+      "lastPageTooltip": "Pergi ke halaman terakhir",
+      "nextPageTooltip": "Pergi ke halaman seterusnya",
+      "previousPageTooltip": "Pergi ke halaman sebelumnya",
+      "nextPageGroupTooltip": "Pergi ke Kumpulan Halaman Seterusnya",
+      "previousPageGroupTooltip": "Pergi ke kumpulan halaman sebelumnya",
+      "paginationStatusMessage": "Mesej luaran pager",
+      "pageLabel": "Halaman ",
+      "ofLabel": " dari ",
+      "pagesLabel": " Halaman"
+    },
+    "chart": {
+      "zoom": "Zum",
+      "zoomIn": "Zoomin",
+      "zoomOut": "Zoomout",
+      "reset": "Tetapkan semula",
+      "pan": "Kuali",
+      "resetZoom": "Tetapkan semula zoom"
+    },
+    "dialog": {
+      "close": "Tutup"
+    },
+    "calendar": {
+      "today": "Hari ini"
+    },
+    "datepicker": {
+      "today": "Hari ini",
+      "placeholder": "Pilih tarikh"
+    },
+    "formValidator": {
+      "required": "Bidang ini diperlukan.",
+      "email": "Sila masukkan alamat e -mel yang sah.",
+      "url": "Sila masukkan URL yang sah.",
+      "date": "Sila masukkan tarikh yang sah.",
+      "dateIso": "Sila masukkan tarikh yang sah (ISO).",
+      "creditCard": "Sila masukkan nombor kad yang sah.",
+      "number": "Sila masukkan nombor yang sah.",
+      "digits": "Sila masukkan hanya digit.",
+      "maxLength": "Sila masukkan tidak lebih daripada {0} aksara.",
+      "minLength": "Sila masukkan sekurang -kurangnya {0} aksara.",
+      "rangeLength": "Sila masukkan nilai antara {0} dan {1} aksara panjang.",
+      "range": "Sila masukkan nilai antara {0} dan {1}.",
+      "max": "Sila masukkan nilai kurang daripada atau sama dengan {0}.",
+      "min": "Sila masukkan nilai yang lebih besar daripada atau sama dengan {0}.",
+      "regex": "Sila masukkan nilai yang betul.",
+      "tel": "Sila masukkan nombor telefon yang sah.",
+      "equalTo": "Sila masukkan nilai yang sama sekali lagi."
+    },
+    "numericTextbox": {
+      "increment": "Nilai kenaikan",
+      "decrement": "Nilai pengurangan",
+      "clear": "Jelas"
+    },
+    "textarea": {
+      "clear": "Jelas"
+    },
+    "textbox": {
+      "clear": "Jelas"
+    }
+  }
+}

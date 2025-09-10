@@ -1,0 +1,88 @@
+{
+  "ko": {
+    "message": {
+      "close": "닫다"
+    },
+    "grid": {
+      "noRecordsMessage": "표시 할 기록이 없습니다",
+      "filterBarTooltip": "\"필터 바 셀",
+      "invalidFilterMessage": "잘못된 필터 데이터",
+      "booleanTrueLabel": "진실",
+      "booleanFalseLabel": "거짓",
+      "addButtonLabel": "추가하다",
+      "editButtonLabel": "편집하다",
+      "cancelButtonLabel": "취소",
+      "updateButtonLabel": "업데이트",
+      "deleteButtonLabel": "삭제",
+      "searchButtonLabel": "찾다",
+      "unsavedChangesConfirmation": "구축되지 않은 변경 사항이 손실됩니다. 계속하고 싶습니까?",
+      "noRecordsEditMessage": "편집 작업을 위해 선택된 레코드가 없습니다",
+      "noRecordsDeleteMessage": "삭제 작업을 위해 선택된 레코드가 없습니다",
+      "okButtonLabel": "좋아요",
+      "confirmDeleteMessage": "레코드를 삭제 하시겠습니까?"
+    },
+    "pager": {
+      "currentPageLabel": "{1} 페이지의 {0}",
+      "totalItemsLabel": "({0} 항목)",
+      "totalItemLabel": "({0} 항목)",
+      "firstPageTooltip": "첫 페이지로 이동하십시오",
+      "lastPageTooltip": "마지막 페이지로 이동하십시오",
+      "nextPageTooltip": "다음 페이지로 이동하십시오",
+      "previousPageTooltip": "이전 페이지로 이동하십시오",
+      "nextPageGroupTooltip": "다음 페이지 그룹으로 이동하십시오",
+      "previousPageGroupTooltip": "이전 페이지 그룹으로 이동하십시오",
+      "paginationStatusMessage": "호출기 외부 메시지",
+      "pageLabel": "페이지 ",
+      "ofLabel": " ~의 ",
+      "pagesLabel": " 페이지"
+    },
+    "chart": {
+      "zoom": "줌",
+      "zoomIn": "줌",
+      "zoomOut": "줌 아웃",
+      "reset": "다시 놓기",
+      "pan": "팬",
+      "resetZoom": "줌 재설정"
+    },
+    "dialog": {
+      "close": "닫다"
+    },
+    "calendar": {
+      "today": "오늘"
+    },
+    "datepicker": {
+      "today": "오늘",
+      "placeholder": "날짜를 선택하십시오"
+    },
+    "formValidator": {
+      "required": "이 필드가 필요합니다.",
+      "email": "유효한 이메일 주소를 입력하십시오.",
+      "url": "유효한 URL을 입력하십시오.",
+      "date": "유효한 날짜를 입력하십시오.",
+      "dateIso": "유효한 날짜 (ISO)를 입력하십시오.",
+      "creditCard": "유효한 카드 번호를 입력하십시오.",
+      "number": "유효한 번호를 입력하십시오.",
+      "digits": "숫자 만 입력하십시오.",
+      "maxLength": "{0} 문자 이상을 입력하십시오.",
+      "minLength": "최소 {0} 문자를 입력하십시오.",
+      "rangeLength": "{0}과 {1} 문자 사이의 값을 입력하십시오.",
+      "range": "{0}과 {1} 사이의 값을 입력하십시오.",
+      "max": "{0}보다 작은 값을 입력하십시오.",
+      "min": "{0}보다 큰 값을 입력하십시오.",
+      "regex": "올바른 값을 입력하십시오.",
+      "tel": "유효한 전화 번호를 입력하십시오.",
+      "equalTo": "다시 같은 값을 입력하십시오."
+    },
+    "numericTextbox": {
+      "increment": "증분 값",
+      "decrement": "감소 값",
+      "clear": "분명한"
+    },
+    "textarea": {
+      "clear": "분명한"
+    },
+    "textbox": {
+      "clear": "분명한"
+    }
+  }
+}

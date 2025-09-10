@@ -1,0 +1,88 @@
+{
+  "he": {
+    "message": {
+      "close": "לִסְגוֹר"
+    },
+    "grid": {
+      "noRecordsMessage": "אין רשומות להצגה",
+      "filterBarTooltip": "\"תא סרגל המסנן",
+      "invalidFilterMessage": "נתוני סינון לא חוקיים",
+      "booleanTrueLabel": "נָכוֹן",
+      "booleanFalseLabel": "שֶׁקֶר",
+      "addButtonLabel": "לְהוֹסִיף",
+      "editButtonLabel": "לַעֲרוֹך",
+      "cancelButtonLabel": "לְבַטֵל",
+      "updateButtonLabel": "לְעַדְכֵּן",
+      "deleteButtonLabel": "לִמְחוֹק",
+      "searchButtonLabel": "לְחַפֵּשׂ",
+      "unsavedChangesConfirmation": "שינויים שלא נשמרו יאבדו. האם אתה בטוח שאתה רוצה להמשיך?",
+      "noRecordsEditMessage": "אין רשומות שנבחרו להפעלת עריכה",
+      "noRecordsDeleteMessage": "אין רשומות שנבחרו להפעלת מחיקה",
+      "okButtonLabel": "בְּסֵדֶר",
+      "confirmDeleteMessage": "האם אתה בטוח שאתה רוצה למחוק את הרשומה?"
+    },
+    "pager": {
+      "currentPageLabel": "{0} של {1} עמודים",
+      "totalItemsLabel": "({0} פריטים)",
+      "totalItemLabel": "({0} פריט)",
+      "firstPageTooltip": "עבור לדף הראשון",
+      "lastPageTooltip": "עבור לעמוד האחרון",
+      "nextPageTooltip": "עבור לדף הבא",
+      "previousPageTooltip": "עבור לדף הקודם",
+      "nextPageGroupTooltip": "עבור לקבוצת העמוד הבא",
+      "previousPageGroupTooltip": "עבור לקבוצת העמוד הקודם",
+      "paginationStatusMessage": "הודעה חיצונית של PAGER",
+      "pageLabel": "עַמוּד ",
+      "ofLabel": " שֶׁל ",
+      "pagesLabel": " עמודים"
+    },
+    "chart": {
+      "zoom": "זום",
+      "zoomIn": "זום",
+      "zoomOut": "ZOOMOUT",
+      "reset": "אִתחוּל",
+      "pan": "פָּאן",
+      "resetZoom": "אפס זום"
+    },
+    "dialog": {
+      "close": "לִסְגוֹר"
+    },
+    "calendar": {
+      "today": "הַיוֹם"
+    },
+    "datepicker": {
+      "today": "הַיוֹם",
+      "placeholder": "בחר תאריך"
+    },
+    "formValidator": {
+      "required": "שדה זה נדרש.",
+      "email": "אנא הזן כתובת דוא\"ל תקפה.",
+      "url": "אנא הזן כתובת אתר תקפה.",
+      "date": "אנא הזן תאריך תקף.",
+      "dateIso": "אנא הזן תאריך תקף (ISO).",
+      "creditCard": "אנא הזן את מספר הכרטיס התקף.",
+      "number": "אנא הזן מספר תקף.",
+      "digits": "אנא הכנס רק ספרות.",
+      "maxLength": "אנא הכנס לא יותר מ- {0} תווים.",
+      "minLength": "אנא הכנס לפחות {0} תווים.",
+      "rangeLength": "אנא הזן ערך בין {0} ו- {1} תווים.",
+      "range": "אנא הזן ערך בין {0} ל- {1}.",
+      "max": "אנא הזן ערך פחות או שווה ל- {0}.",
+      "min": "אנא הזן ערך גדול או שווה ל- {0}.",
+      "regex": "אנא הזן ערך נכון.",
+      "tel": "אנא הזן מספר טלפון תקף.",
+      "equalTo": "אנא הזן שוב את אותו הערך."
+    },
+    "numericTextbox": {
+      "increment": "ערך תוספת",
+      "decrement": "ערך ירידה",
+      "clear": "בָּרוּר"
+    },
+    "textarea": {
+      "clear": "בָּרוּר"
+    },
+    "textbox": {
+      "clear": "בָּרוּר"
+    }
+  }
+}

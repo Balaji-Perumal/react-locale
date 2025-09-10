@@ -1,0 +1,88 @@
+{
+  "nl": {
+    "message": {
+      "close": "Dichtbij"
+    },
+    "grid": {
+      "noRecordsMessage": "Geen records om weer te geven",
+      "filterBarTooltip": "\"S filterbalkcel",
+      "invalidFilterMessage": "Ongeldige filtergegevens",
+      "booleanTrueLabel": "WAAR",
+      "booleanFalseLabel": "vals",
+      "addButtonLabel": "Toevoegen",
+      "editButtonLabel": "Bewerking",
+      "cancelButtonLabel": "Annuleren",
+      "updateButtonLabel": "Update",
+      "deleteButtonLabel": "Verwijderen",
+      "searchButtonLabel": "Zoekopdracht",
+      "unsavedChangesConfirmation": "Niet -opgeslagen wijzigingen gaan verloren. Weet je zeker dat je door wilt gaan?",
+      "noRecordsEditMessage": "Geen records geselecteerd voor bewerkingsbewerking",
+      "noRecordsDeleteMessage": "Geen records geselecteerd voor verwijderingsbewerking",
+      "okButtonLabel": "OK",
+      "confirmDeleteMessage": "Weet u zeker dat u het record wilt verwijderen?"
+    },
+    "pager": {
+      "currentPageLabel": "{0} van {1} pagina's",
+      "totalItemsLabel": "({0} items)",
+      "totalItemLabel": "({0} item)",
+      "firstPageTooltip": "Ga naar de eerste pagina",
+      "lastPageTooltip": "Ga naar de laatste pagina",
+      "nextPageTooltip": "Ga naar de volgende pagina",
+      "previousPageTooltip": "Ga naar de vorige pagina",
+      "nextPageGroupTooltip": "Ga naar de volgende pagina -groep",
+      "previousPageGroupTooltip": "Ga naar de vorige pagina -groep",
+      "paginationStatusMessage": "Pager extern bericht",
+      "pageLabel": "Pagina ",
+      "ofLabel": " van ",
+      "pagesLabel": " Pagina's"
+    },
+    "chart": {
+      "zoom": "Zoom",
+      "zoomIn": "Zoomin",
+      "zoomOut": "Zoomout",
+      "reset": "Resetten",
+      "pan": "Pan",
+      "resetZoom": "Reset zoom"
+    },
+    "dialog": {
+      "close": "Dichtbij"
+    },
+    "calendar": {
+      "today": "Vandaag"
+    },
+    "datepicker": {
+      "today": "Vandaag",
+      "placeholder": "Kies een datum"
+    },
+    "formValidator": {
+      "required": "Dit veld is vereist.",
+      "email": "Voer een geldig e -mailadres in.",
+      "url": "Voer een geldige URL in.",
+      "date": "Voer een geldige datum in.",
+      "dateIso": "Voer een geldige datum in (ISO) in.",
+      "creditCard": "Voer een geldig kaartnummer in.",
+      "number": "Voer een geldig nummer in.",
+      "digits": "Voer alleen cijfers in.",
+      "maxLength": "Voer niet meer in dan {0} tekens.",
+      "minLength": "Voer ten minste {0} tekens in.",
+      "rangeLength": "Voer een waarde in tussen {0} en {1} tekens lang.",
+      "range": "Voer een waarde in tussen {0} en {1}.",
+      "max": "Voer een waarde in die minder dan of gelijk is aan {0}.",
+      "min": "Voer een waarde in die groter is dan of gelijk aan {0}.",
+      "regex": "Voer een juiste waarde in.",
+      "tel": "Voer een geldig telefoonnummer in.",
+      "equalTo": "Voer opnieuw dezelfde waarde in."
+    },
+    "numericTextbox": {
+      "increment": "Verhogwaarde",
+      "decrement": "Afname waarde",
+      "clear": "Duidelijk"
+    },
+    "textarea": {
+      "clear": "Duidelijk"
+    },
+    "textbox": {
+      "clear": "Duidelijk"
+    }
+  }
+}

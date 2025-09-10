@@ -1,0 +1,88 @@
+{
+  "id": {
+    "message": {
+      "close": "Menutup"
+    },
+    "grid": {
+      "noRecordsMessage": "Tidak ada catatan untuk ditampilkan",
+      "filterBarTooltip": "\"Sel batang filter S",
+      "invalidFilterMessage": "Data filter tidak valid",
+      "booleanTrueLabel": "BENAR",
+      "booleanFalseLabel": "PALSU",
+      "addButtonLabel": "Menambahkan",
+      "editButtonLabel": "Edit",
+      "cancelButtonLabel": "Membatalkan",
+      "updateButtonLabel": "Memperbarui",
+      "deleteButtonLabel": "Menghapus",
+      "searchButtonLabel": "Mencari",
+      "unsavedChangesConfirmation": "Perubahan yang belum disimpan akan hilang. Apakah Anda yakin ingin melanjutkan?",
+      "noRecordsEditMessage": "Tidak ada catatan yang dipilih untuk operasi edit",
+      "noRecordsDeleteMessage": "Tidak ada catatan yang dipilih untuk dihapus operasi",
+      "okButtonLabel": "OKE",
+      "confirmDeleteMessage": "Anda yakin ingin menghapus catatan?"
+    },
+    "pager": {
+      "currentPageLabel": "{0} dari {1} halaman",
+      "totalItemsLabel": "({0} item)",
+      "totalItemLabel": "({0} item)",
+      "firstPageTooltip": "Pergi ke halaman pertama",
+      "lastPageTooltip": "Pergi ke halaman terakhir",
+      "nextPageTooltip": "Pergi ke halaman berikutnya",
+      "previousPageTooltip": "Pergi ke halaman sebelumnya",
+      "nextPageGroupTooltip": "Pergi ke grup halaman berikutnya",
+      "previousPageGroupTooltip": "Pergi ke grup halaman sebelumnya",
+      "paginationStatusMessage": "Pesan Eksternal Pager",
+      "pageLabel": "Halaman ",
+      "ofLabel": " dari ",
+      "pagesLabel": " Halaman"
+    },
+    "chart": {
+      "zoom": "Zoom",
+      "zoomIn": "Zoomin",
+      "zoomOut": "Zoomout",
+      "reset": "Mengatur ulang",
+      "pan": "Panci",
+      "resetZoom": "Reset zoom"
+    },
+    "dialog": {
+      "close": "Menutup"
+    },
+    "calendar": {
+      "today": "Hari ini"
+    },
+    "datepicker": {
+      "today": "Hari ini",
+      "placeholder": "Pilih tanggal"
+    },
+    "formValidator": {
+      "required": "Bidang ini diperlukan.",
+      "email": "Harap masukkan alamat email yang valid.",
+      "url": "Harap masukkan URL yang valid.",
+      "date": "Harap masukkan tanggal yang valid.",
+      "dateIso": "Harap masukkan tanggal yang valid (ISO).",
+      "creditCard": "Harap masukkan nomor kartu yang valid.",
+      "number": "Harap masukkan nomor yang valid.",
+      "digits": "Harap masukkan hanya digit.",
+      "maxLength": "Harap masukkan tidak lebih dari {0} karakter.",
+      "minLength": "Harap masukkan setidaknya {0} karakter.",
+      "rangeLength": "Harap masukkan nilai antara {0} dan {1} karakter.",
+      "range": "Harap masukkan nilai antara {0} dan {1}.",
+      "max": "Harap masukkan nilai kurang dari atau sama dengan {0}.",
+      "min": "Harap masukkan nilai yang lebih besar dari atau sama dengan {0}.",
+      "regex": "Harap masukkan nilai yang benar.",
+      "tel": "Harap masukkan nomor telepon yang valid.",
+      "equalTo": "Harap masukkan nilai yang sama lagi."
+    },
+    "numericTextbox": {
+      "increment": "Nilai kenaikan",
+      "decrement": "Nilai penurunan",
+      "clear": "Jernih"
+    },
+    "textarea": {
+      "clear": "Jernih"
+    },
+    "textbox": {
+      "clear": "Jernih"
+    }
+  }
+}

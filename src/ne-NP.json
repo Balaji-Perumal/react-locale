@@ -1,0 +1,88 @@
+{
+  "ne-NP": {
+    "message": {
+      "close": "घनिष्ट"
+    },
+    "grid": {
+      "noRecordsMessage": "प्रदर्शन गर्न कुनै रेकर्ड छैन",
+      "filterBarTooltip": "\"s फिल्टर बार सेल",
+      "invalidFilterMessage": "अवैध फिल्टर डेटा",
+      "booleanTrueLabel": "इमान्दार",
+      "booleanFalseLabel": "मिथ्या",
+      "addButtonLabel": "थप्नु",
+      "editButtonLabel": "सम्पादन गर्नु",
+      "cancelButtonLabel": "रद्द गर्नु",
+      "updateButtonLabel": "अद्यावधिक गर्नुहोस्",
+      "deleteButtonLabel": "मेटाउन",
+      "searchButtonLabel": "खोजी",
+      "unsavedChangesConfirmation": "मुक्ति नपाएका परिवर्तनहरू हराउनेछन्। के तपाईं जारी राख्न चाहनुहुन्छ?",
+      "noRecordsEditMessage": "सम्पादन अपरेशनका लागि चयन गरिएको कुनै रेकर्डहरू चयन गरिएको छैन",
+      "noRecordsDeleteMessage": "संशोधनको लागि चयन गरिएको कुनै रेकर्डहरू चयन गरिएको छैन",
+      "okButtonLabel": "ठिक छ",
+      "confirmDeleteMessage": "के तपाईं पक्का रेकर्ड मेटाउन चाहानुहुन्छ?"
+    },
+    "pager": {
+      "currentPageLabel": "{0} {1} पृष्ठहरू",
+      "totalItemsLabel": "({0} आईटमहरू)",
+      "totalItemLabel": "({0} वस्तु)",
+      "firstPageTooltip": "पहिलो पृष्ठमा जानुहोस्",
+      "lastPageTooltip": "पछिल्लो पृष्ठमा जानुहोस्",
+      "nextPageTooltip": "अर्को पृष्ठमा जानुहोस्",
+      "previousPageTooltip": "अघिल्लो पृष्ठमा जानुहोस्",
+      "nextPageGroupTooltip": "अर्को पृष्ठ समूहमा जानुहोस्",
+      "previousPageGroupTooltip": "अघिल्लो पृष्ठ समूहमा जानुहोस्",
+      "paginationStatusMessage": "PASAR बाह्य सन्देश",
+      "pageLabel": "पृष्ठ ",
+      "ofLabel": " को ",
+      "pagesLabel": " पृष्ठहरु"
+    },
+    "chart": {
+      "zoom": "जुम",
+      "zoomIn": "जॉमिन",
+      "zoomOut": "Zoomout",
+      "reset": "रिसेट गर्नुहोस्",
+      "pan": "तावा",
+      "resetZoom": "जुम रिसेट गर्नुहोस्"
+    },
+    "dialog": {
+      "close": "घनिष्ट"
+    },
+    "calendar": {
+      "today": "आज"
+    },
+    "datepicker": {
+      "today": "आज",
+      "placeholder": "मिति छनौट गर्नुहोस्"
+    },
+    "formValidator": {
+      "required": "यो क्षेत्र आवश्यक छ।",
+      "email": "कृपया मान्य ईमेल ठेगाना प्रविष्ट गर्नुहोस्।",
+      "url": "कृपया एक मान्य URL प्रविष्ट गर्नुहोस्।",
+      "date": "कृपया एक वैध मिति प्रविष्ट गर्नुहोस्।",
+      "dateIso": "कृपया एक वैध मिति प्रविष्ट गर्नुहोस् (ISO)।",
+      "creditCard": "कृपया मान्य कार्ड नम्बर प्रविष्ट गर्नुहोस्।",
+      "number": "कृपया एक मान्य संख्या प्रविष्ट गर्नुहोस्।",
+      "digits": "कृपया केवल अंक प्रविष्ट गर्नुहोस्।",
+      "maxLength": "कृपया {0 0} वर्णहरू भन्दा बढि प्रविष्ट गर्नुहोस्।",
+      "minLength": "कृपया कम्तिमा {0} वर्ण प्रविष्ट गर्नुहोस्।",
+      "rangeLength": "कृपया = 0} र {1 {1} वर्णहरू बीचको मान प्रविष्ट गर्नुहोस्।",
+      "range": "कृपया {0 0} र {1} बीचको मान प्रविष्ट गर्नुहोस्।",
+      "max": "कृपया = 0 0 को बराबर वा बराबर मान प्रविष्ट गर्नुहोस्।",
+      "min": "कृपया {0 0 0 को बराबर वा बराबर मान प्रविष्ट गर्नुहोस्।",
+      "regex": "कृपया सहि मान प्रविष्ट गर्नुहोस्।",
+      "tel": "कृपया एक मान्य फोन नम्बर प्रविष्ट गर्नुहोस्।",
+      "equalTo": "कृपया फेरि समान मान प्रविष्ट गर्नुहोस्।"
+    },
+    "numericTextbox": {
+      "increment": "वृद्धि मान",
+      "decrement": "Derrece मान",
+      "clear": "स्पष्ट"
+    },
+    "textarea": {
+      "clear": "स्पष्ट"
+    },
+    "textbox": {
+      "clear": "स्पष्ट"
+    }
+  }
+}

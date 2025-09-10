@@ -1,0 +1,88 @@
+{
+  "da": {
+    "message": {
+      "close": "Tæt"
+    },
+    "grid": {
+      "noRecordsMessage": "Ingen poster til visning",
+      "filterBarTooltip": "\"S Filter Bar Cell",
+      "invalidFilterMessage": "Ugyldige filterdata",
+      "booleanTrueLabel": "ægte",
+      "booleanFalseLabel": "falsk",
+      "addButtonLabel": "Tilføje",
+      "editButtonLabel": "Redigere",
+      "cancelButtonLabel": "Ophæve",
+      "updateButtonLabel": "Opdatering",
+      "deleteButtonLabel": "Slet",
+      "searchButtonLabel": "Søge",
+      "unsavedChangesConfirmation": "Ufravigede ændringer vil gå tabt. Er du sikker på, at du vil fortsætte?",
+      "noRecordsEditMessage": "Ingen poster valgt til redigeringsoperation",
+      "noRecordsDeleteMessage": "Ingen poster valgt til slet drift",
+      "okButtonLabel": "OK",
+      "confirmDeleteMessage": "Er du sikker på, at du vil slette posten?"
+    },
+    "pager": {
+      "currentPageLabel": "{0} af {1} sider",
+      "totalItemsLabel": "({0} varer)",
+      "totalItemLabel": "({0} vare)",
+      "firstPageTooltip": "Gå til første side",
+      "lastPageTooltip": "Gå til sidste side",
+      "nextPageTooltip": "Gå til næste side",
+      "previousPageTooltip": "Gå til forrige side",
+      "nextPageGroupTooltip": "Gå til gruppen Next Page",
+      "previousPageGroupTooltip": "Gå til forrige sidegruppe",
+      "paginationStatusMessage": "Pager ekstern besked",
+      "pageLabel": "Side ",
+      "ofLabel": " af ",
+      "pagesLabel": " Sider"
+    },
+    "chart": {
+      "zoom": "Zoom",
+      "zoomIn": "Zoomin",
+      "zoomOut": "Zoomout",
+      "reset": "Nulstil",
+      "pan": "Pande",
+      "resetZoom": "Nulstil zoom"
+    },
+    "dialog": {
+      "close": "Tæt"
+    },
+    "calendar": {
+      "today": "I dag"
+    },
+    "datepicker": {
+      "today": "I dag",
+      "placeholder": "Vælg en dato"
+    },
+    "formValidator": {
+      "required": "Dette felt er påkrævet.",
+      "email": "Indtast en gyldig e -mail -adresse.",
+      "url": "Indtast en gyldig URL.",
+      "date": "Indtast en gyldig dato.",
+      "dateIso": "Indtast en gyldig dato (ISO).",
+      "creditCard": "Indtast gyldigt kortnummer.",
+      "number": "Indtast et gyldigt nummer.",
+      "digits": "Indtast kun cifre.",
+      "maxLength": "Indtast venligst ikke mere end {0} tegn.",
+      "minLength": "Indtast mindst {0} tegn.",
+      "rangeLength": "Indtast en værdi mellem {0} og {1} tegn lange.",
+      "range": "Indtast en værdi mellem {0} og {1}.",
+      "max": "Indtast en værdi mindre end eller lig med {0}.",
+      "min": "Indtast en værdi større end eller lig med {0}.",
+      "regex": "Indtast en korrekt værdi.",
+      "tel": "Indtast et gyldigt telefonnummer.",
+      "equalTo": "Indtast den samme værdi igen."
+    },
+    "numericTextbox": {
+      "increment": "Øget værdi",
+      "decrement": "DEMPRIMENT VÆRDI",
+      "clear": "Klar"
+    },
+    "textarea": {
+      "clear": "Klar"
+    },
+    "textbox": {
+      "clear": "Klar"
+    }
+  }
+}

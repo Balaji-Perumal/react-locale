@@ -1,0 +1,88 @@
+{
+  "pl": {
+    "message": {
+      "close": "Zamknąć"
+    },
+    "grid": {
+      "noRecordsMessage": "Brak rekordów do wyświetlenia",
+      "filterBarTooltip": "„Komórka słupka filtrów S",
+      "invalidFilterMessage": "Nieprawidłowe dane filtra",
+      "booleanTrueLabel": "PRAWDA",
+      "booleanFalseLabel": "FAŁSZ",
+      "addButtonLabel": "Dodać",
+      "editButtonLabel": "Redagować",
+      "cancelButtonLabel": "Anulować",
+      "updateButtonLabel": "Aktualizacja",
+      "deleteButtonLabel": "Usuwać",
+      "searchButtonLabel": "Szukaj",
+      "unsavedChangesConfirmation": "Niezbawne zmiany zostaną utracone. Czy na pewno chcesz kontynuować?",
+      "noRecordsEditMessage": "Brak rekordów do edycji",
+      "noRecordsDeleteMessage": "Brak rekordów do obsługi usuwania",
+      "okButtonLabel": "OK",
+      "confirmDeleteMessage": "Czy na pewno chcesz usunąć rekord?"
+    },
+    "pager": {
+      "currentPageLabel": "{0} stron {1}",
+      "totalItemsLabel": "({0} i elementy)",
+      "totalItemLabel": "({0} item)",
+      "firstPageTooltip": "Przejdź do pierwszej strony",
+      "lastPageTooltip": "Przejdź do ostatniej strony",
+      "nextPageTooltip": "Przejdź do następnej strony",
+      "previousPageTooltip": "Przejdź do poprzedniej strony",
+      "nextPageGroupTooltip": "Przejdź do grupy następnej strony",
+      "previousPageGroupTooltip": "Przejdź do poprzedniej grupy stron",
+      "paginationStatusMessage": "Pagera wiadomość zewnętrzna",
+      "pageLabel": "Strona ",
+      "ofLabel": " z ",
+      "pagesLabel": " Strony"
+    },
+    "chart": {
+      "zoom": "Brzęczenie",
+      "zoomIn": "Zoomin",
+      "zoomOut": "Zoomout",
+      "reset": "Nastawić",
+      "pan": "Patelnia",
+      "resetZoom": "Zresetuj Zoom"
+    },
+    "dialog": {
+      "close": "Zamknąć"
+    },
+    "calendar": {
+      "today": "Dzisiaj"
+    },
+    "datepicker": {
+      "today": "Dzisiaj",
+      "placeholder": "Wybierz datę"
+    },
+    "formValidator": {
+      "required": "To pole jest wymagane.",
+      "email": "Wprowadź ważny adres e -mail.",
+      "url": "Wprowadź ważny adres URL.",
+      "date": "Wprowadź ważną datę.",
+      "dateIso": "Wprowadź ważną datę (ISO).",
+      "creditCard": "Wprowadź prawidłowy numer karty.",
+      "number": "Wprowadź ważny numer.",
+      "digits": "Wprowadź tylko cyfry.",
+      "maxLength": "Wpisz nie więcej niż {0} znaki.",
+      "minLength": "Wpisz co najmniej {0} znaki.",
+      "rangeLength": "Wprowadź wartość między znakami między {0} a {1}.",
+      "range": "Wprowadź wartość między {0} i {1}.",
+      "max": "Wprowadź wartość mniejszą lub równą {0}.",
+      "min": "Wprowadź wartość większą lub równą {0}.",
+      "regex": "Wprowadź właściwą wartość.",
+      "tel": "Wprowadź ważny numer telefonu.",
+      "equalTo": "Wprowadź ponownie tę samą wartość."
+    },
+    "numericTextbox": {
+      "increment": "Wartość przyrostowa",
+      "decrement": "Wartość zmniejszania",
+      "clear": "Jasne"
+    },
+    "textarea": {
+      "clear": "Jasne"
+    },
+    "textbox": {
+      "clear": "Jasne"
+    }
+  }
+}

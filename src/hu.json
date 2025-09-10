@@ -1,0 +1,88 @@
+{
+  "hu": {
+    "message": {
+      "close": "Közeli"
+    },
+    "grid": {
+      "noRecordsMessage": "Nincsenek rekordok megjelenítésére",
+      "filterBarTooltip": "\"S szűrőrudakcella",
+      "invalidFilterMessage": "Érvénytelen szűrőadatok",
+      "booleanTrueLabel": "igaz",
+      "booleanFalseLabel": "hamis",
+      "addButtonLabel": "Hozzáad",
+      "editButtonLabel": "Szerkeszt",
+      "cancelButtonLabel": "Töröl",
+      "updateButtonLabel": "Frissít",
+      "deleteButtonLabel": "Töröl",
+      "searchButtonLabel": "Keresés",
+      "unsavedChangesConfirmation": "A nem mentett változások elvesznek. Biztos, hogy folytatni akarja?",
+      "noRecordsEditMessage": "A szerkesztési művelethez nincs kiválasztott rekord",
+      "noRecordsDeleteMessage": "A törléshez nincs kiválasztott rekord",
+      "okButtonLabel": "RENDBEN",
+      "confirmDeleteMessage": "Biztos benne, hogy törölni akarja a rekordot?"
+    },
+    "pager": {
+      "currentPageLabel": "{0} {1} oldalak",
+      "totalItemsLabel": "({0} tételek)",
+      "totalItemLabel": "({0} tétel)",
+      "firstPageTooltip": "Lépjen az első oldalra",
+      "lastPageTooltip": "Lépjen az utolsó oldalra",
+      "nextPageTooltip": "Lépjen a következő oldalra",
+      "previousPageTooltip": "Lépjen az előző oldalra",
+      "nextPageGroupTooltip": "Lépjen a következő oldali csoportra",
+      "previousPageGroupTooltip": "Lépjen az előző oldalcsoportba",
+      "paginationStatusMessage": "Személyhívó külső üzenet",
+      "pageLabel": "Oldal ",
+      "ofLabel": " -y -az ",
+      "pagesLabel": " Oldalak"
+    },
+    "chart": {
+      "zoom": "Zoomolás",
+      "zoomIn": "Zoomin",
+      "zoomOut": "Zoomout",
+      "reset": "Visszaállít",
+      "pan": "Pán",
+      "resetZoom": "Visszaállítja a zoomot"
+    },
+    "dialog": {
+      "close": "Közeli"
+    },
+    "calendar": {
+      "today": "Ma"
+    },
+    "datepicker": {
+      "today": "Ma",
+      "placeholder": "Válasszon egy dátumot"
+    },
+    "formValidator": {
+      "required": "Ez a mező szükséges.",
+      "email": "Kérjük, írjon be egy érvényes e -mail címet.",
+      "url": "Kérjük, írjon be egy érvényes URL -t.",
+      "date": "Kérjük, adjon meg egy érvényes dátumot.",
+      "dateIso": "Kérjük, írjon be egy érvényes dátumot (ISO).",
+      "creditCard": "Kérjük, írja be az érvényes kártya számát.",
+      "number": "Kérjük, írjon be egy érvényes számot.",
+      "digits": "Kérjük, csak számjegyeket írjon be.",
+      "maxLength": "Kérjük, írjon be legfeljebb {0} karaktereket.",
+      "minLength": "Kérjük, írjon be legalább {0} karaktereket.",
+      "rangeLength": "Kérjük, írjon be egy értéket a {0} és a {1} karakterek között.",
+      "range": "Kérjük, írjon be egy értéket a {0} és a {1} között.",
+      "max": "Kérjük, írjon be egy {0} -nál kisebb vagy egyenlő értéket.",
+      "min": "Kérjük, írjon be egy {0} -nál nagyobb vagy egyenlő értéket.",
+      "regex": "Kérjük, adjon meg egy helyes értéket.",
+      "tel": "Kérjük, adjon meg egy érvényes telefonszámot.",
+      "equalTo": "Kérjük, adja meg újra ugyanazt az értéket."
+    },
+    "numericTextbox": {
+      "increment": "Növekedés értéke",
+      "decrement": "Csökkentési érték",
+      "clear": "Világos"
+    },
+    "textarea": {
+      "clear": "Világos"
+    },
+    "textbox": {
+      "clear": "Világos"
+    }
+  }
+}

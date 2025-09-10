@@ -1,0 +1,88 @@
+{
+  "fi": {
+    "message": {
+      "close": "Lähellä"
+    },
+    "grid": {
+      "noRecordsMessage": "Ei tietueita näytettäviä",
+      "filterBarTooltip": "\"Suodatin Bar Cell",
+      "invalidFilterMessage": "Virheellinen suodatintiedot",
+      "booleanTrueLabel": "totta",
+      "booleanFalseLabel": "väärennetty",
+      "addButtonLabel": "Lisätä",
+      "editButtonLabel": "Muokata",
+      "cancelButtonLabel": "Peruuttaa",
+      "updateButtonLabel": "Päivittää",
+      "deleteButtonLabel": "Poistaa",
+      "searchButtonLabel": "Haku",
+      "unsavedChangesConfirmation": "Tapaamattomat muutokset menetetään. Oletko varma, että haluat jatkaa?",
+      "noRecordsEditMessage": "Muokkausoperaatiolle ei ole valittu tietueita",
+      "noRecordsDeleteMessage": "Ei tietueita, jotka on valittu poistooperaatiolle",
+      "okButtonLabel": "Hyvä",
+      "confirmDeleteMessage": "Haluatko varmasti poistaa tietueen?"
+    },
+    "pager": {
+      "currentPageLabel": "{0} {1} sivuista",
+      "totalItemsLabel": "({0} kohteet)",
+      "totalItemLabel": "({0} kohde)",
+      "firstPageTooltip": "Siirry ensimmäiselle sivulle",
+      "lastPageTooltip": "Siirry viimeiselle sivulle",
+      "nextPageTooltip": "Siirry seuraavalle sivulle",
+      "previousPageTooltip": "Siirry edelliselle sivulle",
+      "nextPageGroupTooltip": "Siirry seuraavaan sivuryhmään",
+      "previousPageGroupTooltip": "Siirry edellisen sivuryhmään",
+      "paginationStatusMessage": "Pagerin ulkoinen viesti",
+      "pageLabel": "Sivu ",
+      "ofLabel": " - ",
+      "pagesLabel": " Sivut"
+    },
+    "chart": {
+      "zoom": "Zoomata",
+      "zoomIn": "Zoomin",
+      "zoomOut": "Zoomout",
+      "reset": "Nollata",
+      "pan": "Panoroida",
+      "resetZoom": "Nollaa Zoom"
+    },
+    "dialog": {
+      "close": "Lähellä"
+    },
+    "calendar": {
+      "today": "Tänään"
+    },
+    "datepicker": {
+      "today": "Tänään",
+      "placeholder": "Valitse päivämäärä"
+    },
+    "formValidator": {
+      "required": "Tämä kenttä vaaditaan.",
+      "email": "Anna kelvollinen sähköpostiosoite.",
+      "url": "Anna kelvollinen URL -osoite.",
+      "date": "Anna kelvollinen päivämäärä.",
+      "dateIso": "Anna voimassa oleva päivämäärä (ISO).",
+      "creditCard": "Anna kelvollinen korttinumero.",
+      "number": "Anna kelvollinen numero.",
+      "digits": "Anna vain numerot.",
+      "maxLength": "Anna vain {0} merkit.",
+      "minLength": "Anna vähintään {0} merkit.",
+      "rangeLength": "Anna arvo {0} ja {1} merkin välillä pitkä.",
+      "range": "Anna arvo välillä {0} ja {1}.",
+      "max": "Anna arvo, joka on pienempi tai yhtä suuri kuin {0}.",
+      "min": "Anna arvo, joka on suurempi tai yhtä suuri kuin {0}.",
+      "regex": "Anna oikea arvo.",
+      "tel": "Anna kelvollinen puhelinnumero.",
+      "equalTo": "Anna sama arvo uudelleen."
+    },
+    "numericTextbox": {
+      "increment": "Lisäarvo",
+      "decrement": "Vähennysarvo",
+      "clear": "Selkeä"
+    },
+    "textarea": {
+      "clear": "Selkeä"
+    },
+    "textbox": {
+      "clear": "Selkeä"
+    }
+  }
+}
