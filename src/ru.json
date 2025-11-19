@@ -15,7 +15,7 @@
       "updateButtonLabel": "Обновлять",
       "deleteButtonLabel": "Удалить",
       "searchButtonLabel": "Поиск",
-      "unsavedChangesConfirmation": "Несавретые изменения будут потеряны. Вы уверены, что хотите продолжить?",
+      "unsavedChangesConfirmation": "Неиседлкие изменения будут потеряны. Вы уверены, что хотите продолжить?",
       "noRecordsEditMessage": "Нет записей, не выбранных для редактирования операции",
       "noRecordsDeleteMessage": "Нет записей, не выбранных для операции удаления",
       "okButtonLabel": "ХОРОШО",
